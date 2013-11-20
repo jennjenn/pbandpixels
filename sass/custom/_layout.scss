@@ -10,3 +10,22 @@ header{
 		color: $color-plum;		
 	}
 }
+
+#main-nav>ul li{
+	&:first-child{
+		margin-left:0;
+	}
+}
+
+section.recipe{
+	font-size:14px;
+	font-family: $font-mono;
+	
+	li, p{
+		font-size: 14px;
+	}
+	
+	p{
+		line-height:20px;
+	}
+}

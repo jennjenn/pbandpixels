@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Bites | Peanut Butter + Pixels]]></title>
-  <link href="http://peanutbutterandpixels.com/categories/bites/atom.xml" rel="self"/>
-  <link href="http://peanutbutterandpixels.com/"/>
-  <updated>2013-11-19T18:03:27-05:00</updated>
-  <id>http://peanutbutterandpixels.com/</id>
+  <title><![CDATA[Category: Bites | Sunset Kitchen]]></title>
+  <link href="http://sunsetkitchen.com/categories/bites/atom.xml" rel="self"/>
+  <link href="http://sunsetkitchen.com/"/>
+  <updated>2013-11-20T01:26:01-05:00</updated>
+  <id>http://sunsetkitchen.com/</id>
   <author>
     <name><![CDATA[Jenn Vargas]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[A Change of Heart]]></title>
-    <link href="http://peanutbutterandpixels.com/a-change-of-heart/"/>
+    <link href="http://sunsetkitchen.com/a-change-of-heart/"/>
     <updated>2013-11-19T15:26:53-05:00</updated>
-    <id>http://peanutbutterandpixels.com/a-change-of-heart</id>
+    <id>http://sunsetkitchen.com/a-change-of-heart</id>
     <content type="html"><![CDATA[<p>As a twenty-something living in New York City, I held fast to the belief that eating out was way more cost-effective than attempting to do any sort of cooking at home. I&rsquo;d generally eat a big lunch at work and then come home to snack on something for dinner. I&rsquo;ve often been reprimanded by friends for subsisting entirely on Cheerios or chips + salsa. These always seemed like reasonable dinners to me. I&rsquo;m fairly certain that I didn&rsquo;t even turn on the stove in my apartment until at least 8 months of living here.</p>
 
 <p>Things started to change when I joined the gym and found myself starving when I got home. Cheerios, chips, and salsa just weren&rsquo;t cutting it for dinner anymore. I upped my game by adding smoothies to my repertoire. Slowly but surely, I starting buying fruits and veggies to keep chopped up in the fridge and learned the magic of meal prep.</p>

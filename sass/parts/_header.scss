@@ -14,7 +14,7 @@ $header-height: 30px;
 	a{
 		@include transition(color 0.3s);
 		&:hover{
-			color: $color-main;
+			color: $color-hover;
 		}
 	}
 	h1{
@@ -39,6 +39,7 @@ $header-height: 30px;
 		}
 		>li{
 			margin-left: 50px;
+			font-size:14px;
 			@include inline-block;
 			@media screen and (max-width: 1040px){
 				margin-left: 0;
@@ -49,13 +50,13 @@ $header-height: 30px;
 			}
 			&:hover{
 				>a{
-					color: $color-main;
+					color: $color-hover;
 				}
 			}
 			>a{
 				padding: 38px 0;
 				margin-top: -38px;
-				color: $color-light-blue;
+				color: $color-accent;
 				&:after{
 					content: "\f078";
 					color: $color-grey-light;
