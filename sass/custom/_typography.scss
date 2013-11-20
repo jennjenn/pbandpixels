@@ -15,11 +15,11 @@ $font-path: "../font/";
 	h2.title{
 		font-size: 2.4em;
 		font-weight: 300;
-		line-height: 35px;
+		line-height: 1em;
 		font-family: 'nevis', sans-serif;
 		text-transform: uppercase;
-		color: $color-titles;		
-		
+		color: $color-titles;
+				
 		a{
 			color: $color-titles;
 			@include transition(color 1.5s);
