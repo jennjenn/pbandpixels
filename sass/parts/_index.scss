@@ -3,6 +3,7 @@
 	height: 20px;
 	line-height: 20px;
 	position: relative;
+	font-size:14px;
 	@include border-shadow();
 	a{
 		&:hover{
