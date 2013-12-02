@@ -68,6 +68,10 @@ github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
+# Pinterest
+pinterest_user: jennv
+pinterest_pinit_button: true
+
 # Twitter
 twitter_user:
 twitter_tweet_button: true

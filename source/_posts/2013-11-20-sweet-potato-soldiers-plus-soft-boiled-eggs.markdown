@@ -16,7 +16,7 @@ Another new discovery is the wonder of roasting veggies. They're so versatile an
 
 My craving for soft boiled eggs and the two sweet potatoes sitting on my counter, haunting me, led me to this:
 
-![Soft-boiled Eggs and Spicy Sweet Potato Soldiers]({{ site.url }}/uploads/2013-11-20/sweetpotatosolders.jpg)
+![Soft-boiled Eggs and Spicy Sweet Potato Soldiers]({{ site.url }}/uploads/2013-11-20/sweetpotatosoldiers.jpg)
 
 So. Good. And filling. I wanted to try something a little more than throwing the sweet potatoes in the oven with some salt and pepper, so I settled on making them sweet and spicy.
 <section class="recipe">
